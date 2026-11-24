@@ -1,147 +1,77 @@
-## Hi there 👋
-
-<!-- INTRODUCTION -->
-<h1 align="center">Hi 👋, I'm Ibrahim Musah</h1>
-
-<h3 align="center">
-  Software Developer | Data Science Enthusiast | AI & Backend Engineering
-</h3>
+<h1 align="center">Hi, I'm Ibrahim Musah 👋</h1>
+<h3 align="center">Software Developer · Backend & Data · AI</h3>
 
 <p align="center">
-  Building practical technology solutions through software development,
-  data, and artificial intelligence.
+  I build full-stack applications and data-driven systems, from React front ends to Node/Express APIs and PostgreSQL databases.
+  I've supported application, database and digital survey operations at the <b>Ghana Statistical Service (GSS)</b>.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Imusah245">
-    <img src="https://img.shields.io/badge/GitHub-Imusah245-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ibrahim-musah-00a131322/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-musah-00a131322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧭 About Me
 
-I'm a Computer Science graduate passionate about building software solutions, exploring data, and applying technology to solve real-world problems.
-
-- 🎓 BSc Computer Science graduate.
-- 💻 Interested in Software Engineering, Backend Development and Data Science.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 📊 Experienced in working with data, databases and digital survey systems.
-- 🏢 Worked with the Ghana Statistical Service (GSS), supporting application and database operations.
-- 🚀 Building practical projects that combine software, automation and data.
-- 🌱 Continuously learning, building and improving my technical skills.
-
-**My philosophy:** Learn continuously, build consistently, and solve meaningful problems.
+- 🎓 BSc Computer Science, **KNUST**
+- 🏢 **Ghana Statistical Service (GSS):** application and database support for data collection and survey systems
+- 🔧 I focus on backend development, database design and data analysis
+- 🤖 Currently building with AI: LLM-powered assistants and automation
+- 🌍 Interested in tools that make public-sector and institutional data work easier
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Programming Languages**
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
-**Frontend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgresql" />
-</p>
-
-**Data Science & Analytics**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🐔 Poultry Farm Marketplace
-A web-based poultry farming platform focused on connecting farmers and customers, making poultry products easier to showcase and access.
+| Project | What it does | Stack |
+|---|---|---|
+| 💳 **[Banking Management System](https://github.com/Imusah245/mybanking)** | Full-stack banking app with account management and transaction workflows, handling amounts in GHS. [Add: auth, transfers, admin dashboard, whichever you built] | React, Vite, Tailwind, Node.js, Express, MongoDB |
+| 🎓 **[KNUST University Inquiry Chatbot](https://github.com/Imusah245/university_chatbot)** | AI assistant that answers questions on KNUST admissions, programmes and applications. [Add: what it covers, platform] | React Native, Node.js, Firebase, OpenAI API |
+| 🐔 **[Poultry Farm Marketplace](https://github.com/Imusah245/poultry-farm)** | Marketplace connecting poultry farmers and customers so products are easy to list and find. [Add: key features] | React, Node.js, Express, MongoDB |
+| 🗄️ **[Airbnb Database](https://github.com/Imusah245/alx-airbnb-database)** | Relational database design for an Airbnb-style platform: schema, normalisation, and SQL queries. | PostgreSQL, SQL |
 
-**Technologies:** JavaScript, React, Node.js, MongoDB, Express.
-
-[View Repository](https://github.com/Imusah245/poultry-farm)
-
-#### 🎓 KNUST University Inquiry Chatbot
-An AI-powered university inquiry assistant designed to provide information about KNUST admissions, academic programmes, applications and other university-related enquiries.
-
-**Technologies:** React Native, Node.js, Firebase, OpenAI API.
-
-[View Repository](https://github.com/Imusah245/university_chatbot)
-
-#### 💳 Banking Management System
-A software project exploring banking operations, account management and financial transaction workflows.
-
-**Technologies:** JavaScript, React, Node.js.
-
-[View Repository](https://github.com/Imusah245/mybanking)
-
-#### 🗄️ Airbnb Database Project
-A database engineering project focused on relational database design, SQL queries and data management.
-
-**Technologies:** PostgreSQL, SQL.
-
-[View Repository](https://github.com/Imusah245/alx-airbnb-database)
+> 🔗 Add a **live demo link** or screenshot to each project README. It is the single biggest upgrade you can make.
 
 ---
 
-### 📚 Education & Professional Development
+## 📚 Education & Training
 
-- 🎓 **BSc Computer Science** — Kwame Nkrumah University of Science and Technology (KNUST).
-- 🚀 **ALX Africa** — Professional development and technical training.
-- 📊 **Data Analytics & Data Science** — Practical learning and project-based development.
-- 🤖 **AI Career Essentials** — ALX Africa.
-
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imusah245&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imusah245&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Imusah245&theme=tokyonight&hide_border=true" />
-</p>
+- 🎓 **BSc Computer Science**, Kwame Nkrumah University of Science and Technology (KNUST)
+- 🚀 **ALX Africa**: software engineering and backend training
+- 🤖 **AI Career Essentials**, ALX Africa
+- 📊 Data analytics and data science: project-based learning
 
 ---
 
-### 🤝 Let's Connect
+## 🌱 Currently
 
-I'm interested in collaborating on software development, data science, backend engineering and AI-driven projects.
+- 🔨 Building: [what you're working on now]
+- 📖 Learning: [e.g. system design, advanced SQL, ML with scikit-learn]
+- 🤝 Open to: internships, junior or graduate roles, and collaboration on backend, data and AI projects
+
+---
 
 <p align="center">
-  <a href="https://github.com/Imusah245">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ibrahim-musah-00a131322/">LinkedIn</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imusah245&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <i>"Building today, innovating for tomorrow."</i>
-</p>
-
-
+<p align="center"><i>Learn continuously, build consistently, solve meaningful problems.</i></p>
